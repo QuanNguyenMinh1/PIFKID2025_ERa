@@ -160,7 +160,7 @@ void terminalCallback()
 {
   if (fromStr == "Hi")
   {
-    terminal.print("PIF: "Hello".");
+    terminal.print("PIF: 'Hello.'");
   }
 
   if (fromStr == "LED ON")
