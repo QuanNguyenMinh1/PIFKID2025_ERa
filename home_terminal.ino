@@ -220,6 +220,7 @@ void setup() {
     ERa.addInterval(1000L, timerEvent);
 
     // pinMode(LED_PIN, OUTPUT);
+    pinMode(5, OUTPUT);
 }
 
 void loop() {
